@@ -1,4 +1,4 @@
 name = "nikoloz"
-asaki = "12"
-asaki = asaki + "1"
+age = "12"
+age = asaki + "1"
 name = name  + "!"
