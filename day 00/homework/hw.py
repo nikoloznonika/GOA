@@ -38,7 +38,7 @@ end_fill()
 penup()
 goto(200,200)
 pendown()
- 
+
 color("red")
 begin_fill()
 right(150)
@@ -72,5 +72,5 @@ left(90)
 forward(50)
 end_fill()
 
-   
+
 exitonclick()
